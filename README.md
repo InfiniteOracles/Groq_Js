@@ -40,10 +40,6 @@ To get started with Groq_Js, follow these steps:
    npm server.js
    ```
 
-## How to Use
-
-Groq_Js is simple to use. Here's a basic example:
-
 ### Example URL:
 
 ```
@@ -109,3 +105,6 @@ To use multiple API keys, follow these instructions:
     ];
     ```
 Add as many api keys as you want.
+
+### Requirments
+- NodeJs
