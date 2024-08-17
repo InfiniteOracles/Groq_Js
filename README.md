@@ -1,5 +1,7 @@
 # Groq_NodeJs
 
+![Logo](https://imgs.search.brave.com/KmEtxKkzt1NSVqFr1FSA6m8z9j4ICRb5Ai0FsahtcC4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQxNWQ0MmZj/ZjAwOGI2NGFkZjNk/Y2EwMGE2MzM0MmM1/YjYzM2IxN2JmNWMw/YmVjNDRjZTU4MTI5/Y2Q0Mzk5YS9ncm9x/LmNvbS8)
+
 Groq_NodeJs is a powerful and feature-rich Node.js requester designed for seamless interaction with Groq. This tool supports extensive configurations, making it easy to manage requests and handle responses efficiently.
 
 ## Overview
@@ -17,10 +19,10 @@ To get started with Groq_NodeJs, follow these steps:
 
 1. **Clone the Repository:**
 
-   `git clone [repo url]`
+   `git clone [[repo url]](https://github.com/InfiniteOracles/Groq_NodeJs.git)`
 
 2. **Navigate to the Directory:**
-
+   
    `cd [directory]`
    
 4. **Start the Server:**
