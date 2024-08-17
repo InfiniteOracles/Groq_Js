@@ -1,4 +1,4 @@
-# Groq_NodeJs
+# Groq_Js
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Groq_logo.svg/220px-Groq_logo.svg.png" alt="Logo" width="300"/>
