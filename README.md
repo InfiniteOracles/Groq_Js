@@ -7,11 +7,11 @@
 
 
 
-Groq_NodeJs is a powerful and feature-rich Node.js requester designed for seamless interaction with Groq. This tool supports extensive configurations, making it easy to manage requests and handle responses efficiently.
+Groq_Js is a powerful and feature-rich Node.js requester designed for seamless interaction with Groq. This tool supports extensive configurations, making it easy to manage requests and handle responses efficiently.
 
 ## Overview
 
-Groq_NodeJs provides the following key features:
+Groq_Js provides the following key features:
 
 - **Multi-API Key Support**: Easily manage and switch between multiple API keys for different use cases.
 - **Model Selection**: Flexibly choose between different models to suit your specific needs.
@@ -20,11 +20,11 @@ Groq_NodeJs provides the following key features:
 
 ## Getting Started
 
-To get started with Groq_NodeJs, follow these steps:
+To get started with Groq_Js, follow these steps:
 
 1. **Clone the Repository:**
 
-   `git clone [[repo url]](https://github.com/InfiniteOracles/Groq_NodeJs.git)`
+   `git clone [[repo url]](https://github.com/InfiniteOracles/Groq_Js.git)`
 
 2. **Navigate to the Directory:**
    
@@ -36,7 +36,7 @@ To get started with Groq_NodeJs, follow these steps:
 
 ## How to Use
 
-Groq_NodeJs is simple to use. Here's a basic example:
+Groq_Js is simple to use. Here's a basic example:
 
 ### Example URL:
 
