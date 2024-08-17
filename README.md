@@ -23,16 +23,22 @@ Groq_Js provides the following key features:
 To get started with Groq_Js, follow these steps:
 
 1. **Clone the Repository:**
-
-   `git clone [[repo url]](https://github.com/InfiniteOracles/Groq_Js.git)`
-
-2. **Navigate to the Directory:**
    
+   ```bash
+   `git clone [[repo url]](https://github.com/InfiniteOracles/Groq_Js.git)`
+   ```
+
+3. **Navigate to the Directory:**
+
+   ```bash
    `cd [directory]`
+    ```   
    
 4. **Start the Server:**
 
+   ```bash
    `npm server.js`
+   ```
 
 ## How to Use
 
@@ -40,7 +46,9 @@ Groq_Js is simple to use. Here's a basic example:
 
 ### Example URL:
 
-`http://{Url}/data/?prompt={Prompt}&limitcharacter={CharacterLimit}&model={Model}`
+```
+http://{Url}/data/?prompt={Prompt}&limitcharacter={CharacterLimit}&model={Model}
+```
 
 ### Working Models:
 
