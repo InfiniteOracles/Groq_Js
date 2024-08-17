@@ -1,7 +1,7 @@
 # Groq_NodeJs
 
 <div align="center">
-  <img src="upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Groq_logo.svg/330px-Groq_logo.svg.png" alt="Logo" width="300"/>
+  <img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Groq_logo.svg/220px-Groq_logo.svg.png" alt="Logo" width="300"/>
 </div>
 
 
