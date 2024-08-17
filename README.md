@@ -25,7 +25,7 @@ To get started with Groq_Js, follow these steps:
 1. **Clone the Repository:**
    
    ```bash
-   git clone [[repo url]](https://github.com/InfiniteOracles/Groq_Js.git)
+   git clone https://github.com/InfiniteOracles/Groq_Js.git
    ```
 
 3. **Navigate to the Directory:**
