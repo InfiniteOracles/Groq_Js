@@ -53,3 +53,51 @@ Groq_Js is simple to use. Here's a basic example:
 - `gemma2-9b-it`
 
 Ensure you use the full ID of the model in the URL.
+
+### Configuring Multiple API Keys
+
+To use multiple API keys, follow these instructions:
+
+1. Open the `server.js` file.
+
+2. Locate the `apiKeys` array in the file:
+
+    ```javascript
+    const apiKeys = [
+        '[api key]',
+        '[another api key]'
+        // Add as many API keys as needed. The system will randomly select one to avoid rate limits.
+    ];
+    ```
+
+3. **Add Your API Keys:**
+   - To include multiple keys, list them inside the array, each on a new line.
+   - If you only need one key, you can remove the extra lines.
+   - To add more than two keys, simply add additional lines within the array.
+   - 
+**Example Configurations:**
+
+- For one key:
+    ```javascript
+    const apiKeys = [
+        '[first api key]'
+    ];
+    ```
+
+- For two keys:
+    ```javascript
+    const apiKeys = [
+        '[first api key]',
+        '[second api key]'
+    ];
+    ```
+
+- For three keys:
+    ```javascript
+    const apiKeys = [
+        '[first api key]',
+        '[second api key]',
+        '[third api key]'
+    ];
+    ```
+Add as many api keys as you want.
